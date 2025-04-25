@@ -1,0 +1,14 @@
+{
+  "name": "assignmentb",
+  "version": "1.0.0",
+  "description": "Image upload web app with Node.js, EJS, and Multer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "multer": "^1.4.5"
+  }
+}
